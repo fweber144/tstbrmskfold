@@ -6,7 +6,6 @@
 .Rproj.user
 .Rapp.history
 .RData
-/src/projpred.dll
 
-tests/testthat/bfits
+tests/testthat/bfit.rds
 tests/testthat/_snaps
