@@ -16,5 +16,6 @@ Suggests:
     loo,
     rstantools,
     rlang,
-    rstanarm
+    rstanarm,
+    cmdstanr
 Config/testthat/edition: 2
